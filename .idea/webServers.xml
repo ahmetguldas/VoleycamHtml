@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7602a04f-926e-4245-ac3b-7965644c1e90" name="BeyazOtobüs" url="http://ftp.beyazotobus.com">
+        <fileTransfer host="ftp.beyazotobus.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5ecd4018-4ec4-4bd4-a916-5f3a03ee33e7" name="esmeralda" url="http://ftp.esmeraldaturizm.com">
+        <fileTransfer host="ftp.esmeraldaturizm.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
